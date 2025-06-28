@@ -1,3 +1,7 @@
+Here's a sample `README.md` file for your **Sentiment Analysis of Amazon Reviews** project. This file gives a clear overview of the project, how to set it up, what it does, and how to contribute.
+
+---
+
 ````markdown
 # 🛍️ Sentiment Analysis of Amazon Reviews
 
