@@ -1,8 +1,3 @@
-Here's a sample `README.md` file for your **Sentiment Analysis of Amazon Reviews** project. This file gives a clear overview of the project, how to set it up, what it does, and how to contribute.
-
----
-
-````markdown
 # 🛍️ Sentiment Analysis of Amazon Reviews
 
 This project performs **sentiment analysis** on Amazon product reviews using **VADER** and **TextBlob**. It includes data cleaning, exploratory data analysis (EDA), and visualizations to understand how users feel about different products.
@@ -48,7 +43,7 @@ The dataset used is `amazon.csv` and includes the following columns:
 ```bash
 git clone https://github.com/yourusername/Sentiment-Analysis-of-Amazon-Reviews.git
 cd Sentiment-Analysis-of-Amazon-Reviews
-````
+
 
 2. Install dependencies:
 
