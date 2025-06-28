@@ -92,17 +92,3 @@ Contributions are welcome! Feel free to open issues or pull requests to improve 
 This project is licensed under the MIT License.
 
 ---
-
-Made with ❤️ by \[Your Name]
-
-```
-
----
-
-Let me know if you want me to:
-- Add a `requirements.txt` file
-- Generate plots like word clouds or confusion matrix
-- Convert this to a Streamlit app or Flask-based web app
-
-Just say the word!
-```
